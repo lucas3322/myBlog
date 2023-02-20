@@ -4,36 +4,54 @@ const About = () => {
       <div className="content">
         {/* title */}
         <div className="titles">
-          <div className="title">About Me</div>
-          <div className="subtitle">My story</div>
+          <div className="title">Sobre mim</div>
+          <div className="subtitle">Minha história</div>
         </div>
         {/* text */}
         <div className="cols">
           <div className="col">
             <div className="single-post-text">
               <p>
-                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor
-                sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin
-                urna dolor sagittis lacus.
+                Sou um programador com dois anos de experiência, focado em
+                front-end e com conhecimentos em back-end. Apaixonado pela área
+                de programação e desenvolvimento de sistemas, tenho grande
+                interesse em aprender novas tecnologias e metodologias.
               </p>
             </div>
           </div>
           <div className="col">
             <div className="single-post-text">
               <p>
-                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor
-                sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin
-                urna dolor sagittis lacus.
+                Meu objetivo é contribuir para projetos inovadores e
+                desafiadores, sempre buscando soluções criativas e eficientes
+                para os problemas.
               </p>
             </div>
           </div>
           <div className="col col-full">
             <div className="single-post-text">
               <p>
-                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor
-                sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin
-                urna dolor sagittis lacus. Donec elit libero, sodales nec,
-                volutpat a, suscipit non, turpis.
+                Durante minha jornada como programador, adquiri habilidades em
+                HTML, CSS, JavaScript, React, Node.js e banco de dados. Também
+                tenho conhecimentos em metodologias ágeis, como Scrum e Kanban.
+              </p>
+
+              <p>
+                Sempre busco me manter atualizado sobre as tendências e
+                evoluções do mercado, frequentando eventos e cursos, lendo
+                artigos e participando de comunidades online de desenvolvimento.
+              </p>
+
+              <p>
+                Alé, disso, sou uma pessoa dedicada comprometida e proativa, com
+                grande capacidade de trabalho em equipe e solução de problemas.
+              </p>
+
+              <p>
+                Estou em busca de novos desafios e oportunidades de crescimento,
+                onde possa colocar em prática meus conhecimentos e contribuir
+                para o sucesso de crescimento, onde possa colocar em prática
+                meus conhecimentos e contribuir para o sucesso da empresa.
               </p>
             </div>
           </div>
@@ -42,22 +60,22 @@ const About = () => {
         <div className="info-list">
           <ul>
             <li>
-              <strong>Age:</strong> 24
+              <strong>Idade:</strong> 25
             </li>
             <li>
-              <strong>Residence:</strong> USA
+              <strong>Residência:</strong> BR
             </li>
             <li>
-              <strong>Freelance:</strong> Available
+              <strong>Regime:</strong> PJ - CLT
             </li>
             <li>
-              <strong>Address:</strong> San Francisco
+              <strong>Endereço:</strong> São Paulo
             </li>
             <li>
-              <strong>Phone:</strong> +1 256 254 84 56
+              <strong>Whatsapp:</strong> (11) 9 66416-1550
             </li>
             <li>
-              <strong>E-mail:</strong> alejandroa@gmail.com
+              <strong>E-mail:</strong> lucass706@hotmail.com
             </li>
           </ul>
         </div>
