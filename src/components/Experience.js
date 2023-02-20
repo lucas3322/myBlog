@@ -6,88 +6,40 @@ const Experience = () => {
       <div className="content">
         {/* title */}
         <div className="titles">
-          <div className="title">Experience</div>
-          <div className="subtitle">Working with</div>
+          <div className="title">Experiência</div>
+          <div className="subtitle">Locais onde trabalhei</div>
         </div>
         {/* resume items */}
         <div className="content-carousel">
           <Swiper {...sliderProps.experience}>
             <SwiperSlide className="item">
               <div className="resume-item active">
-                <div className="date">Present</div>
+                <div className="date">2020 - 2021</div>
                 <div className="name">
-                  The Turin <br />
-                  Olympics
+                  NC7 <br />
+                  Integradora
                 </div>
                 <div className="single-post-text">
                   <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
+                    Atuando especialemnte com a linguágem PHP, trabalhando com
+                    templates e CRM's. <br />
+                    Atuando também com tratamento de dados em massa com Python.
                   </p>
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="item">
               <div className="resume-item">
-                <div className="date">2016-2018</div>
+                <div className="date">ATUAL</div>
                 <div className="name">
-                  Red <br />
-                  Drifting
+                  Agência <br />
+                  All Digital
                 </div>
                 <div className="single-post-text">
                   <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2014-2016</div>
-                <div className="name">
-                  World <br />
-                  Economy
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2012-2014</div>
-                <div className="name">
-                  Art Director <br />
-                  Facebook
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2010-2012</div>
-                <div className="name">
-                  Art Director <br />
-                  Facebook
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
+                    atuando na equipe de desenvolvimento de softwares, tanto no
+                    Front-End quando no BackEnd, de acordo com a nessecidade do
+                    projeto.
                   </p>
                 </div>
               </div>
