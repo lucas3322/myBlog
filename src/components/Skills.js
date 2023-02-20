@@ -8,31 +8,30 @@ export const DesignSkills = () => {
         {/* title */}
         <div className="titles">
           <div className="title">Design Skills</div>
-          <div className="subtitle">Creative ability</div>
+          <div className="subtitle">Habilidade criativas</div>
         </div>
         {/* skills items */}
         <div className="skills percent">
           <ul>
             <li>
-              <div className="name">Web Layout</div>
+              <div className="name">Photoshop</div>
               <div className="single-post-text">
                 <p>
-                  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                  Sed fringilla mauris sit amet nibh.
+                  Grande conhecimento e domínio de uma das mais famosas
+                  ferramentas de design da Adobe
                 </p>
               </div>
               <div className="progress">
-                <div className="percentage" style={{ width: "90%" }}>
-                  <span className="percent">90%</span>
+                <div className="percentage" style={{ width: "85%" }}>
+                  <span className="percent">85%</span>
                 </div>
               </div>
             </li>
             <li>
-              <div className="name">Illustrations</div>
+              <div className="name">Adobe Premiere</div>
               <div className="single-post-text">
                 <p>
-                  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                  Sed fringilla mauris sit amet nibh.
+                  Sólidos conhecimentos em edições de videos, com Adobe Premiere
                 </p>
               </div>
               <div className="progress">
@@ -42,30 +41,24 @@ export const DesignSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">Photoshop</div>
+              <div className="name">Adobe Illustrator</div>
               <div className="single-post-text">
-                <p>
-                  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                  Sed fringilla mauris sit amet nibh.
-                </p>
+                <p>Conhecimentos em criações de logos e design em vetores</p>
               </div>
               <div className="progress">
-                <div className="percentage" style={{ width: "95%" }}>
-                  <span className="percent">95%</span>
+                <div className="percentage" style={{ width: "65%" }}>
+                  <span className="percent">65%</span>
                 </div>
               </div>
             </li>
             <li>
-              <div className="name">Graphic Design</div>
+              <div className="name">Canva</div>
               <div className="single-post-text">
-                <p>
-                  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                  Sed fringilla mauris sit amet nibh.
-                </p>
+                <p>Dominio da ferramenta online queridinha dos designers</p>
               </div>
               <div className="progress">
-                <div className="percentage" style={{ width: "85%" }}>
-                  <span className="percent">85%</span>
+                <div className="percentage" style={{ width: "95%" }}>
+                  <span className="percent">95%</span>
                 </div>
               </div>
             </li>

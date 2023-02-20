@@ -6,89 +6,31 @@ const Education = () => {
       <div className="content">
         {/* title */}
         <div className="titles">
-          <div className="title">Education</div>
-          <div className="subtitle">Studied at</div>
+          <div className="title">Educação</div>
+          <div className="subtitle">FAculdades e Cursos</div>
         </div>
         {/* resume items */}
         <div className="content-carousel">
           <Swiper {...sliderProps.education}>
             <SwiperSlide className="item">
               <div className="resume-item active">
-                <div className="date">2011-2012</div>
+                <div className="date">2018 - 2020</div>
                 <div className="name">
-                  Art University <br />
-                  New York
+                  Universidade Adventista de São Paulo - UNASP - Matemática
                 </div>
                 <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
+                  <p>bacharelado em Matemática. incompleto</p>
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="item">
               <div className="resume-item">
-                <div className="date">2010-2011</div>
+                <div className="date">2021-2022</div>
                 <div className="name">
-                  Programming Course <br />
-                  Paris
+                  Estácio - Análise e Desenvolvimento de Sistemas
                 </div>
                 <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2009-2010</div>
-                <div className="name">
-                  Web Design Course <br />
-                  London
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2012-2014</div>
-                <div className="name">
-                  Art Course <br />
-                  London
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="item">
-              <div className="resume-item">
-                <div className="date">2010-2012</div>
-                <div className="name">
-                  Art Course <br />
-                  London
-                </div>
-                <div className="single-post-text">
-                  <p>
-                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
-                    Sed fringilla mauris sit amet nibh. Donec sodales sagittis
-                    magna.
-                  </p>
+                  <p>Ultimo semestre</p>
                 </div>
               </div>
             </SwiperSlide>

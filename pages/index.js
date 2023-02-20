@@ -43,14 +43,14 @@ const Index = () => {
       <Started />
       <About />
       <Service />
-      <Pricing />
+      {/* <Pricing /> */}
       <Experience />
       <Education />
       <DesignSkills />
-      <LanguagesSkills />
+      {/* <LanguagesSkills /> */}
       <CodingSkills />
-      <Testimonials />
-      <Clients />
+      {/* <Testimonials /> */}
+      {/* <Clients /> */}
       <Works />
       <Contacts />
     </Layout>
