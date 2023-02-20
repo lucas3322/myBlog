@@ -21,14 +21,15 @@ const Started = () => {
             </div>
             {/* text */}
             <div className="h-text">
-              Hello! I am Web Developer from United States, New York. I have
-              rich experience in web site design and building, also I am good at
-              wordpress. I love to talk with you about our unique.
+              Olá bem vindo ao meu blog, aqui você ficará por dentro dos meus
+              trabalhos e projetos pessoais. Se você está procurando um
+              programador Front-end e Back-end apaixonado por tecnologia e
+              inovação, entre em contato comigo.
             </div>
             {/* button */}
             <a href="#" className="btn">
               <span className="animated-button">
-                <span>Contact Me</span>
+                <span>Mandar um oi</span>
               </span>
               <i className="icon fas fa-chevron-right" />
             </a>
