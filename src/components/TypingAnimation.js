@@ -13,7 +13,7 @@ const TypingAnimation = ({ data }) => {
       typeSpeed: 100,
       backSpeed: 100,
       backDelay: 100,
-      smartBackspace: true,
+      smartBackspace: false,
       loop: true,
       showCursor: false,
     });
